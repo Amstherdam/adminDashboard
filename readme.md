@@ -3,6 +3,6 @@
 - HTML 
 - CSS
 
-[Admin Dashboard](https://amstherdam.github.io/adminDashboard/)
+# [Admin Dashboard](https://amstherdam-admin-dashboard.netlify.app/)
 
 ![](./img/adminDashboard.png)
